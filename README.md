@@ -1,4 +1,3 @@
 # Arth-Task
 AWS SQS 
-# HI I AM SATHYA
-###### ITS A SAMPLE CLASS
+ 
